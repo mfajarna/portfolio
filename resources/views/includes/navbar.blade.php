@@ -13,26 +13,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav navbar-center mx-auto" id="navbar-navlist">
                         <li class="nav-item">
-                            <a data-scroll href="#home" class="nav-link">Home</a>
+                            <a data-scroll href="#home" class="nav-link">Wellcome</a>
                         </li>
                         <li class="nav-item">
-                            <a data-scroll href="#services" class="nav-link">Services</a>
+                            <a data-scroll href="#testimonial" class="nav-link">About me</a>
                         </li>
+
                         <li class="nav-item">
-                            <a data-scroll href="#pricing" class="nav-link">Pricing</a>
+                            <a data-scroll href="#blog" class="nav-link">Projects</a>
                         </li>
-                        <li class="nav-item">
-                            <a data-scroll href="#testimonial" class="nav-link">Testimonial</a>
-                        </li>
-                        <li class="nav-item">
-                            <a data-scroll href="#team" class="nav-link">Team</a>
-                        </li>
-                        <li class="nav-item">
-                            <a data-scroll href="#blog" class="nav-link">Blog</a>
-                        </li>
-                        <li class="nav-item">
-                            <a data-scroll href="#contact" class="nav-link">Contact</a>
-                        </li>
+
                     </ul>
                     <div class="nav-button">
                         <ul class="nav navbar-nav navbar-right">

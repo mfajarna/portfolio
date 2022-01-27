@@ -28,6 +28,9 @@
     <!-- Project -->
     @include('components.project')
 
+    <!-- Footer -->
+    @include('components.footer')
+
 
     @stack('before-script')
 
