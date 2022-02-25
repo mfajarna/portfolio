@@ -13,7 +13,7 @@
 <script>
     $(document).ready(function () {
         $('#getResume').on('click', function() {
-            window.open('/storage/assets/file/cv/resume.pdf', '_blank')
+            window.open('/storage/resume.pdf', '_blank')
         })
     })
 </script>
