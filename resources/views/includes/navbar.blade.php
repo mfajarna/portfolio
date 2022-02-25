@@ -16,18 +16,18 @@
                             <a data-scroll href="#home" class="nav-link">Wellcome</a>
                         </li>
                         <li class="nav-item">
-                            <a data-scroll href="#testimonial" class="nav-link">About me</a>
+                            <a data-scroll href="#aboutMe" class="nav-link">About me</a>
                         </li>
 
                         <li class="nav-item">
-                            <a data-scroll href="#blog" class="nav-link">Projects</a>
+                            <a data-scroll href="#projects" class="nav-link">Projects</a>
                         </li>
 
                     </ul>
                     <div class="nav-button">
                         <ul class="nav navbar-nav navbar-right">
                             <li>
-                                <button type="button" class="btn btn-primary navbar-btn btn-rounded">Get Resume</button>
+                                <button id="getResume" class="btn btn-primary navbar-btn btn-rounded">Get Resume</button>
                             </li>
                         </ul>
                     </div>

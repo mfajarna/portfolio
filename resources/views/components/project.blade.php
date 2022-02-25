@@ -1,4 +1,4 @@
-    <section class="section" id="blog">
+    <section class="section" id="projects">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-7">

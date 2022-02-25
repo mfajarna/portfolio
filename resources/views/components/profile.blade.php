@@ -1,4 +1,4 @@
-    <section class="section pt-5 bg-testimonial" id="testimonial">
+    <section class="section pt-5 bg-testimonial" id="aboutMe">
         <div class="container">
 
             <div class="row justify-content-center">
@@ -26,11 +26,7 @@
 
 
                                         <div class="client-content ps-4">
-                                            <h5 class="line-height_1_6 f-18">“I feel confident imposing change on
-                                                myself. It's a lot more fun proging than looking back.
-                                                That's why I ultricies enim at malesuada
-                                                creatures and the whole of quis consectetur nunc diam on tortor neaded
-                                                to sit amet semper throw curve balls.”
+                                            <h5 class="line-height_1_6 f-18">“Focus on your goal, don't give up. Ignore the talk of people and anything that hinders your process of becoming an adult and achieving your goals.”
                                             </h5>
 
                                             <div class="client-icon">
