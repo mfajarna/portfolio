@@ -13,7 +13,7 @@
 <script>
     $(document).ready(function () {
         $('#getResume').on('click', function() {
-            window.open('/storage/resume.pdf', '_blank')
+            window.open('https://drive.google.com/file/d/1Lb-Cb0aO-2eAOn1Hsdg821Qaq3jY2NRA/view', '_blank')
         })
     })
 </script>
